@@ -1,0 +1,22 @@
+{
+  "n_points": 1000,
+  "step_minutes": 5,
+  "start": "2026-10-11 00:00:00",
+  "variance": "grow",
+  "trend": "slow_up",
+  "seasonality": "one",
+  "base": 100.0,
+  "noise_std": 1.0,
+  "seed": 6,
+  "outliers": [
+    2,
+    168,
+    244,
+    245,
+    435,
+    499,
+    644,
+    794
+  ],
+  "missing_count": 30
+}
